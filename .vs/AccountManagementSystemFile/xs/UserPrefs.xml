@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{9D9AD24C-CB88-404A-9AF9-E6BD75794E7C}|Default">
+  <MonoDevelop.Ide.ItemProperties.AccountManagementSystemFile PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AccountManagementSystemFile/Program.cs">
+    <Files>
+      <File FileName="AccountManagementSystemFile/Account.cs" Line="13" Column="35" />
+      <File FileName="AccountManagementSystemFile/AccountHolder.cs" Line="1" Column="1" />
+      <File FileName="AccountManagementSystemFile/AccountHolderRepository.cs" Line="1" Column="1" />
+      <File FileName="AccountManagementSystemFile/accountholders.txt" Line="1" Column="1" />
+      <File FileName="AccountManagementSystemFile/AccountRepository.cs" Line="1" Column="1" />
+      <File FileName="AccountManagementSystemFile/Auth.cs" Line="1" Column="1" />
+      <File FileName="AccountManagementSystemFile/BaseRepository.cs" Line="1" Column="1" />
+      <File FileName="AccountManagementSystemFile/Details.cs" Line="6" Column="1" />
+      <File FileName="AccountManagementSystemFile/Loan.cs" Line="1" Column="1" />
+      <File FileName="AccountManagementSystemFile/LoanManagement.cs" Line="1" Column="1" />
+      <File FileName="AccountManagementSystemFile/Manager.cs" Line="1" Column="1" />
+      <File FileName="AccountManagementSystemFile/ManagerRepository.cs" Line="1" Column="1" />
+      <File FileName="AccountManagementSystemFile/Managers.txt" Line="1" Column="1" />
+      <File FileName="AccountManagementSystemFile/Menu.cs" Line="151" Column="45" />
+      <File FileName="AccountManagementSystemFile/OverDraft.cs" Line="1" Column="1" />
+      <File FileName="AccountManagementSystemFile/OverdraftManagement.cs" Line="1" Column="1" />
+      <File FileName="AccountManagementSystemFile/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AccountManagementSystemFile" expanded="True">
+            <Node name="AccountManagementSystemFile" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
